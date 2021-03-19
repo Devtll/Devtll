@@ -4,7 +4,7 @@
 
 I'm devtll, an iOS developer
 
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning the front-end
 <!--
 **Devtll/Devtll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
